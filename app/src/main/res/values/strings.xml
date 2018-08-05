@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pizza House</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="appwidget_text">Order History</string>
+    <string name="add_widget">Add widget</string>
+    <string name="open_location_settings">open location</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Reorder">Reorder</string>
+    <string name="DeleteOrder">DeleteOrder</string>
+</resources>
